@@ -13,6 +13,8 @@ function App() {
       </div>
       <footer>
         <a href="youtube.com">Hello</a>
+         <a href="youtube.com">Carrear</a>
+         <a href="youtube.com">Contact</a>
       </footer>
     </>
   )
